@@ -16,4 +16,4 @@ class Test_Calculator(unittest.TestCase):
         self.assertEqual(calGrade(50), "D")
 
     def testitFunction(self):
-        self.assertEqual(calGrade(60), "C") 
+        self.assertEqual(calGrade(60), "C")
